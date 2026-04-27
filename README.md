@@ -1,4 +1,4 @@
-# Momento - Workforce Management App
+# Momento - Workforce Management App || ROBSON Tyriana L3 GL N°71
 
 Momento est une solution complète de gestion de la main-d'œuvre, comprenant une application mobile Flutter moderne et un backend Laravel robuste. Elle permet le suivi précis des présences, la gestion des tâches et la planification des horaires.
 
